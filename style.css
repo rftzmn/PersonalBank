@@ -10,5 +10,6 @@
     @apply bg-neutral-800;
   }
 }
+
 @tailwind components;
 @tailwind utilities;
